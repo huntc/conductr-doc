@@ -12,3 +12,4 @@ AclConfiguration:ACL configuration
 TCPLookups:TCP & UDP service lookups
 Filesystems:Filesystems
 BintrayPublishing: Bintray Publishing
+Autoscaling: Autoscaling
